@@ -1,0 +1,51 @@
+---
+title: "Wastewater Surviellence for SARS-CoV-2 in Athens, GA"
+---
+
+</div> <!-- container-fluid main-container -->
+
+<div class="jumbotron homepagebanner jumbotron-fluid">
+<div class="container">
+  <!--<h1 class="display-3"></h1>-->
+  <h2 class="lead">To better understand the outbreak of the novel Coronavirus disease-19 (COVID-19) on a local level, we are monitoring wastewater samples for disease-causing virus, SARS-CoV-2, from water reclamation facilities in Athens, GA. 
+</h2>
+</div>
+</div>
+
+<div class="container centered">
+<h2>Wastewater Surviellence for SARS-CoV-2 in Athens, GA</h2>
+</div>
+
+<!-- <div class="jumbotron jumbotron-fluid"> -->
+
+<div class="row">
+
+
+<!-- Summary Figure -->
+<div class="col-sm-8"> 
+<img src="masterplot.png" />
+<img src="fig_leg.png" style="width:350px; margin-left:50px;"/>
+</div> 
+<!-- Summary Figure -->
+
+<!-- legend + button -->
+<div class="col-sm-3">
+<p style="color:black; font-size:medium;">
+
+Sewage samples are collected weekly from water reclamation facilities that serve Athens Clarke County (WRF A and WRF B). Samples are tested to detect and measure SARS-CoV-2, the virus that causes COVID-19. 
+
+We measure the virus by detecting two genes specific to SARS-CoV-2, the N1 and N2 nucleocapsid genes, using RT-qPCR. These gene targets (N1 and N2) are measured and reported as a concentration (in copies per liter of wastewater). Note that the viral copies per liter are shown in a log scale, such that log 5, for example, equals 10^5 copies or 100,000 copies per liter. The theoretical limit of detection (LOD) is noted.
+
+We predict that the changes in the concentration of SARS-CoV-2 in wastewater will reflect the trends of COVID-19 infection circulating in the community. The daily number of newly reported COVID-19 cases in Athens-Clarke County (grey) appear alongside the 10-day moving average of new cases (yellow). Changes in SARS-CoV-2 in wastewater may precede changes in reported cases because of lags in clinical testing.
+</div> 
+<!-- end legend  -->
+
+</div> <!-- end row -->
+</div> <!-- end jumbotron -->
+
+<hr>
+
+<div class="container-fluid main-container" id="news"> <!-- container-fluid main-container -->
+
+<div class="row">
+<div class="col-sm-8">

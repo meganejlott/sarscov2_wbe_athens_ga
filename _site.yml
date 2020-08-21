@@ -1,0 +1,23 @@
+output_dir: '.'
+name: "Wastewater Surviellence for SARS-CoV-2 in Athens, GA"
+#navbar:
+#  title: "Wastewater Surviellence for SARS-CoV-2 in Athens, GA"
+#  left:
+#    #- text: "☗"
+#    - icon: fa-home
+#      href: index.html
+#  right:
+#    - text: "<img id=\"logo\" style=\"width: 30px;\" src=\"dog.gif\" />"
+#    - text: "<a href=\"https://ceid.uga.edu/support/\" target=\"_blank\">Support CEID</a>"
+#     - text: "Support CEID"
+#      href: "https://ceid.uga.edu/support/"
+output:
+  html_document:
+    self_contained: false
+    theme: cosmo
+    highlight: textmate
+    mathjax: null
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+    css: _site/css/main.css
